@@ -34,12 +34,12 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);  // Create MFRC522 instance
 //Provide the RTDB payload printing info and other helper functions.
 #include "addons/RTDBHelper.h"
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDCmJjTBwnh9R9420tCgcOmR7TYBenvZpQ" //A MODIFIER
+#define API_KEY "xxxxxxxxxxxxxxxxxxxxxx" //A MODIFIER
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://esp32-d96d7-default-rtdb.firebaseio.com/" //A MODIFIER
+#define DATABASE_URL "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" //A MODIFIER
 // Insert Authorized Email and password
 #define USER_EMAIL "yayehaby2000@gmail.com" //A MODIFIER
-#define USER_PASSWORD "Abiba2000" //A MODIFIER
+#define USER_PASSWORD "xxxxxxxxxxxxx" //A MODIFIER
 
 //Define Firebase Data object
 FirebaseData fbdo;
