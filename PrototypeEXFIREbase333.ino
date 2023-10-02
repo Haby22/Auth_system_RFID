@@ -38,7 +38,7 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);  // Create MFRC522 instance
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" //A MODIFIER
 // Insert Authorized Email and password
-#define USER_EMAIL "yayehaby2000@gmail.com" //A MODIFIER
+#define USER_EMAIL "xxxxxxxxxxxxxxxxxxxx" //A MODIFIER
 #define USER_PASSWORD "xxxxxxxxxxxxx" //A MODIFIER
 
 //Define Firebase Data object
